@@ -1,15 +1,3 @@
-Perfeito, você já trouxe uma base muito boa!  
-Vou **melhorar** o texto deixando ele:
-
-- **Mais organizado** (separação melhor de exemplos e gramática)
-- **Mais objetivo e bonito de ler** (padronizar títulos e formatação)
-- **Corrigindo pequenos pontos de clareza**
-- **Adicionando uma seção extra** sobre a gramática no final, com destaque próprio
-
-Aqui está a versão **melhorada do seu README**:
-
----
-
 # 📚 Compilador Simples
 
 Este projeto é um **compilador simples**, desenvolvido como parte do curso de **Compiladores**.  
