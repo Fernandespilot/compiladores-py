@@ -1,0 +1,39 @@
+begin
+    int a, b, result;
+    float pi;
+    string message;
+
+    // Atribuição de valores
+    a = 10;
+    b = 20;
+    pi = 3.14;
+
+    // Mensagem de saída
+    message = "Resultado da soma: ";
+    output(message);
+
+    // Estrutura condicional
+    if (a > b) then
+        output("A é maior que B");
+    else
+        output("B é maior ou igual a A");
+    endif
+
+    // Estrutura de repetição (while)
+    result = 0;
+    int count = 1;
+    while (count <= 5) do
+        result = result + count;
+        count = count + 1;
+    endwhile
+
+    // Saída do resultado
+    output("A soma dos primeiros 5 números é: ");
+    output(result);
+
+    // Usando um loop for
+    output("Contando de 1 a 5:");
+    for int i = 1 to 5 do
+        output(i);
+    endfor
+end
