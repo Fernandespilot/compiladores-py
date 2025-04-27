@@ -1,28 +1,4 @@
 # Compiladores-py
-Ótimo! Vou começar analisando o que você mandou (`Compiladores-py.zip`) para entender o conteúdo e depois montar um `README.md` organizado para o projeto.
-
-Vou extrair o que tem dentro do arquivo primeiro:
-
-O projeto `Compiladores-py` contém:
-
-- Um repositório Git (.git/)
-- Um diretório principal chamado `Compiladores-main/` com:
-  - Arquivos gerados pelo ANTLR (`CompiladorLexer.py`, `CompiladorParser.py`, etc.)
-  - Gramática ANTLR (`Compilador.g4`)
-  - Um `main.py` (provavelmente o arquivo principal para rodar o projeto)
-  - Um `font.txt`
-  - Um arquivo chamado `IAestaticaFutipynb` (aparenta ser um erro de nome — depois te explico isso)
-  - Um `README.md` antigo
-  - Um diretório `.antlr/` com arquivos `.java` e `.interp`, `.tokens` (gerados também pelo ANTLR)
-
----
-
-Agora vou te preparar um novo `README.md` mais **organizado** e **profissional** para esse projeto!  
-Vou considerar que é um **projeto de compiladores usando Python + ANTLR**.
-
-Aqui está: 
-
----
 
 # 📚 Projeto de Compilador com ANTLR e Python
 
