@@ -1,4 +1,4 @@
-# compiladores-py
+# Compiladores-py
 Ótimo! Vou começar analisando o que você mandou (`Compiladores-py.zip`) para entender o conteúdo e depois montar um `README.md` organizado para o projeto.
 
 Vou extrair o que tem dentro do arquivo primeiro:
