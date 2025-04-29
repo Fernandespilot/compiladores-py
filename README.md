@@ -65,13 +65,6 @@ O objetivo é entender a construção de linguagens formais, análise léxica, a
 
 ---
 
-## ⚠️ Observações
-
-- O arquivo `IAestaticaFutipynb` parece estar com o nome errado.Deveria ser `IAestaticaFut.ipynb` (um Jupyter Notebook). Recomenda-se corrigir o nome para facilitar a leitura.
-- O repositório contém arquivos `.java` dentro da pasta `.antlr`, que são gerados para a linguagem Java. Para o projeto em Python, esses arquivos não são necessários.
-
----
-
 ## ✍️ Autor
 
 > Projeto desenvolvido por Pedro Fernandes Barbosa Costa.  
